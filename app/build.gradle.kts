@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.github.sseung416.chattingApplication"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.github.sseung416.chattingApplication"
         minSdk = 30
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
